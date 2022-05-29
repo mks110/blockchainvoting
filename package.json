@@ -1,0 +1,22 @@
+{
+  "name": "election",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.35",
+    "@material-ui/icons": "^4.11.2",
+    "@truffle/hdwallet-provider": "^1.0.42",
+    "react-router-dom": "^6.2.2",
+    "react-script": "^2.0.5"
+  }
+}
